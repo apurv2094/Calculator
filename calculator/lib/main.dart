@@ -24,7 +24,7 @@ class _MyAppState extends State<MyApp> {
       debugShowCheckedModeBanner: false,
       home: Scaffold(
           appBar: AppBar(
-            title: Text(" Simple Calculator"),
+            title: Text("Simple Calculator"),
           ),
           body: SingleChildScrollView(
             child: Column(
